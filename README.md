@@ -1,5 +1,5 @@
 # WhatsApp-Style Persona Chatbot
-![Chatbot UI](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
+![Chatbot UI](https://github.com/samm1601/WhatsApp-Style-Persona-Chatbot/blob/de4833ba4952ab78aa53f7277c6f30ceec511b6e/Screenshot%202025-08-28%20121235.png)
 
 
 This repository contains a chatbot designed to emulate a specific texting style, trained on past conversation data. The chatbot learns how a person typically writes — including tone, slang, message length, and Roman Urdu patterns — and then generates new replies in that style.  
